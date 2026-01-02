@@ -1,0 +1,13 @@
+{
+  "name": "mooncake-profiler",
+  "version": "1.0.0",
+  "description": "Automated performance profiling and optimization for Mooncake APIs",
+  "author": "AI Assistant",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "profile-mooncake",
+      "path": "skills/profile-mooncake"
+    }
+  ]
+}
